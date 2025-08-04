@@ -1,5 +1,18 @@
 # IoT-Security-System
 
+COMPANY: CODTECH IT SOLUTION
+
+NAME: SANJAY KUMAR M
+
+INTERN ID: CT04DH1577
+
+DOMAIN:Internet Of Things
+
+DURATION:4 WEEKS
+
+MENTOR:Neela Santhosh
+
+
 DESCRIPTION:
 
 Task 3: IoT Security System
