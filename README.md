@@ -13,7 +13,7 @@ DURATION:4 WEEKS
 MENTOR:Neela Santhosh
 
 
-DESCRIPTION:
+#DESCRIPTION:
 
 Task 3: IoT Security System
 
@@ -76,6 +76,8 @@ PIR GND	GND	Ground
 PIR OUT	Pin 2	Motion detection signal
 LED + (Anode)	Pin 13	Via 220Ω resistor
 LED – (Cathode)	GND	Connect directly
+
+#OUTPUT:
 
 
 <img width="1899" height="934" alt="Image" src="https://github.com/user-attachments/assets/23147ef4-8942-4fa2-9c3b-da83fd7a3684" />
